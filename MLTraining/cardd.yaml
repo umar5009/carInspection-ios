@@ -1,0 +1,12 @@
+# Point these at your converted CarDD (+ own photos) folders
+path: ./datasets/cardd
+train: images/train
+val: images/val
+names:
+  0: dent
+  1: scratch
+  2: crack
+  3: glass_shatter
+  4: lamp_broken
+  5: tire_flat
+  6: rust
